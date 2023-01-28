@@ -1,3 +1,5 @@
+<p>This is a web application that allows you to search and view a list of robots. The user interface is built using <strong>React.js</strong> and the data is provided by a JSON file. As you type into the search bar, the list of robots will filter in real-time to match the text input. Each robot card includes a unique image and name. The project is deployed on <strong>GitHub Pages</strong> and can be accessed via this link: <a href='https://alekszemz.github.io/robofriends/'>https://alekszemz.github.io/robofriends/</a> .</p>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
